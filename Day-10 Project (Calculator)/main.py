@@ -10,6 +10,7 @@ def substract(n1, n2):
 
 
 def multiply(n1, n2):
+    print ('somethint')
     return n1 * n2
 
 
